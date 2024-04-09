@@ -1,8 +1,3 @@
+## Bem-vindo ao meu perfil
 
-# Bem-vindo ao meu perfil
-
-<!--
-**MiguelToller/MiguelToller** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-# 🔭 Cursando Ciência da Computação 2/8 - UFN
+🔭 Cursando Ciência da Computação 2/8 - UFN
