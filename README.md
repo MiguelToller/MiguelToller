@@ -8,6 +8,6 @@
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelToller&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
-  <img align="center" alt="ecs-Js" height="30" width="40" src="devicon-java-plain colored">
+  <img align="center" alt="ecs-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <div>
 
