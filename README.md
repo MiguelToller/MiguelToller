@@ -1,6 +1,6 @@
 ## Bem-vindo ao meu perfil
 
-🔭 Cursando Ciência da Computação 3/8 - UFN
+🔭 Cursando Ciência da Computação 4/8 - UFN
 
 <div align="center" style="display:flex">
   <a href="https://github.com/MiguelToller">
