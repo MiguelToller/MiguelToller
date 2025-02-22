@@ -4,7 +4,7 @@
 
 <div align="center" style="display:flex">
   <a href="https://github.com/MiguelToller">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MiguelToller&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MiguelToller&theme=dracula&show_icons=true&hide_border=true&count_private=true)"/>
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MiguelToller&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
