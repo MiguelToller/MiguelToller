@@ -1,6 +1,6 @@
 ## Welcome to my profile
 
-🔭 Studying Computer Science 4/8 - UFN
+🔭 Studying Computer Science 5/8 - UFN
 
 <div align="center" style="display:flex">
   <a href="https://github.com/MiguelToller">
