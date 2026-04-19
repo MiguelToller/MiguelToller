@@ -5,6 +5,7 @@
 ###
 
 <h4 align="center">Studying Computer Science 6/8 - UFN</h4>
+<h4 align="center">Intern at GestãoDS</h4>
 
 ###
 
